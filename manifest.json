@@ -1,0 +1,14 @@
+{
+  "name": "JEE2027 Hub — All-in-One Prep OS",
+  "short_name": "JEE2027",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#06060f",
+  "theme_color": "#0a0a18",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "logo-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
